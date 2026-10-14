@@ -28,4 +28,5 @@ dsl:*library you want to add*
 |openssl| ⏳ | N/A
 |gbm| ⏳ | N/A
 
-## Do you want to add other lib binding? Create an issue!
+## Do you want to add other lib binding? Create an issue in main DSL repository!
+
