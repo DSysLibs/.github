@@ -13,7 +13,7 @@ dsl:*library you want to add*
 ⏳ - comming soon 
 
 | Name | Status | Version |
-|--|--|
+|--|--|--|
 | libseat | ✅ | *last* 
 | pixman |  ✅ | 0.46.1 
 |tslib| ⏳ | N/A
