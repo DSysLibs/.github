@@ -13,10 +13,10 @@ dsl:*library you want to add*
 ⏳ - comming soon 
 
 | Name | Status | Version |
-|--|--|
-| libseat | ✅ | *last* 
+|--|--|--|
+| libseat | ✅ | *last* | 
 | pixman |  ✅ | 0.46.1 
-|tslib| ⏳ | N/A
+| tslib | ⏳ | N/A |
 |libudev| ⏳ | N/A
 |pciaccess| ⏳ | N/A
 |libdrm| ⏳ | N/A
